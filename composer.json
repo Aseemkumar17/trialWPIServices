@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "wpiservice\\WpiService\\": "src/WpiService/"
+            "wtiservice\\WtiService\\":  "src/"
         }
     },
     "authors": [
