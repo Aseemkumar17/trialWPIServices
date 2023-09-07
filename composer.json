@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "wpiservice\\WpiService\\": "src/"
+            "wpiservice\\WpiService\\": "src/WpiService/"
         }
     },
     "authors": [
@@ -36,8 +36,8 @@
     "extra": {
         "laravel": {
             "providers": [
-                "wpiservices\\WpiServices\\PerformanceServiceProvider",
-                "wpiservices\\WpiServices\\IWpiServiceProvider"
+                "wpiservices\\WpiServices\\PerformanceServiceProvider"
+                
                 ]
                 
             
