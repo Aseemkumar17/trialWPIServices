@@ -1,5 +1,5 @@
 <?php
-namespace wpiservice\WpiService;
+namespace wpiservices\WpiServices;
 
 use Illuminate\Support\ServiceProvider;
 

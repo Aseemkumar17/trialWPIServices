@@ -1,7 +1,7 @@
 <?php
-namespace wpiservice\WpiService;
+namespace wpiservices\WpiServices;
 use Illuminate\Support\ServiceProvider;
-use wpiservice\WpiService\IWpiService;
+use wpiservices\WpiServices\IWpiService;
 class IWpiServiceProvider extends ServiceProvider
 {
     /**

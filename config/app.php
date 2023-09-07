@@ -3,7 +3,8 @@ return [
 'providers' => ServiceProvider::defaultProviders()->merge([
         
 
-        wpiservice\WpiService\IWpiServiceProvider::class,
+        wpiservices\WpiServices\IWpiServiceProvider::class,
+        wpiservices\WpiServices\PerformanceServiceProvider::class,
 
     ])->toArray(),
     ];

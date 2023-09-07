@@ -1,7 +1,7 @@
 <?php
-namespace wpiservice\WpiService;
+namespace wpiservices\WpiServices;
 use GuzzleHttp\Client;
-use wpiservice\WpiService\IWpiService;
+use wpiservices\WpiServices\IWpiService;
 class WpiService implements IWpiService
 {
 

@@ -1,5 +1,5 @@
 <?php
-namespace wpiservice\WpiService;
+namespace wpiservices\WpiServices;
 
 // Define an interface named IWpiService
 interface IWpiService
