@@ -1,6 +1,6 @@
 <?php
 
-namespace wpiservice\WpiService;
+namespace wtiservice\WtiService;
 
 interface IWpiService
 {

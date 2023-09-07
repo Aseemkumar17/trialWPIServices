@@ -1,5 +1,5 @@
 {
-    "name": "wpiservices/wpi-services",
+    "name": "wtiservice/wti-service",
     "description": "Check Overall Website Performance",
     "type": "library",
   
@@ -36,7 +36,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "wpiservices\\WpiServices\\PerformanceServiceProvider"
+                "wtiservice\\WtiService\\PerformanceServiceProvider"
                 
                 ]
                 
